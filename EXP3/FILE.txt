@@ -1,0 +1,2 @@
+AIM: PCA for Data Visualization . Data SEt : IRIS Dataset 
+PC Reduction  from 4 -> 3 & 4 -> 2 and potiing 2D pairplot 
