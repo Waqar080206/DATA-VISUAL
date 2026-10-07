@@ -1,0 +1,6 @@
+AIM: Multivariate data visualisation 
+Datset : Olympics data
+3 graphs : 1. Parallel Coordinates
+2: radar chart or SPider Chgart 
+3. our choice but not scatter plot 
+goal is to use 5 visual variable in one

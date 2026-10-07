@@ -1,0 +1,3 @@
+AIM: Study of 4 visual variables brightness, orientation, texture & Motion.
+Datatset: Time Intelligence Sales Analysis Datatset
+https://www.kaggle.com/datasets/gauravsharma1124/time-intelligence-sales-analysis
