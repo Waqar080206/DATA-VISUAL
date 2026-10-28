@@ -2,4 +2,5 @@ AIM: TEXT Data VIsdualization
 Tag Cloud
 Word Cloud
 Scatter TEXT
+WORD TREE
 on pdf file of Constitution of India
