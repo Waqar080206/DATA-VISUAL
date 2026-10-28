@@ -1,0 +1,202 @@
+name,latitude,longitude,country,region,elevation_m,population,feature_type,geoname_id
+Mumbai Airport,19.08869,72.86792,India,Maharashtra,11,0,airport,6301032
+Indira Gandhi International Airport,28.5665,77.10309,India,Delhi,236,0,airport,6301872
+Sardar Vallabhbhai Patel International Airport,23.07724,72.63465,India,Gujarat,57,0,airport,6301029
+Sri Guru Ram Dass Jee International Airport,31.70959,74.79726,India,Punjab,230,0,airport,6301092
+Chennai International Airport,12.98833,80.16578,India,Tamil Nadu,15,0,airport,6301127
+Trivandrum International Airport,8.48212,76.92011,India,Kerala,4,0,airport,6301129
+Guwāhāti International Airport,26.10609,91.58594,India,Assam,49,0,airport,1271477
+Kempegowda International Airport,13.20071,77.70879,India,Karnataka,915,0,airport,7303386
+Visakhapatnam Airport,17.7212,83.2245,India,Andhra Pradesh,,0,airport,7668597
+Kushok Bakula Rimpochee Airport,34.1359,77.5465,India,Ladakh,,0,airport,7668606
+Srinagar International Airport,33.9871,74.7742,India,Jammu and Kashmir,,0,airport,7668609
+Calicut International Airport,11.1368,75.9553,India,Kerala,,0,airport,7668634
+Cochin International Airport,10.15556,76.39139,India,Kerala,,0,airport,7626292
+Akola Airport,20.69901,77.05863,India,Maharashtra,304,0,airport,6301030
+Aurangabad Airport,19.86273,75.39811,India,Maharashtra,582,0,airport,6301031
+Bilaspur Airport,21.9884,82.11098,India,Chhattisgarh,274,0,airport,6301033
+Bhuj Airport,23.28783,69.67015,India,Gujarat,81,0,airport,6301034
+Belgaum Airport,15.85929,74.61829,India,Karnataka,758,0,airport,6301035
+Bhopal Airport,23.28747,77.33737,India,Madhya Pradesh,523,0,airport,6301036
+Goa International Airport,15.38083,73.83142,India,Goa,56,0,airport,6301037
+Devi Ahilyabai Holkar International Airport,22.72179,75.80109,India,Madhya Pradesh,563,0,airport,6301038
+Jabalpur Airport,23.17782,80.05205,India,Madhya Pradesh,494,0,airport,6301039
+Kolhapur Airport,16.66466,74.28935,India,Maharashtra,608,0,airport,6301041
+Nagpur Airport,21.09219,79.04718,India,Maharashtra,314,0,airport,6301042
+Rajkot Airport,22.30918,70.77953,India,Gujarat,134,0,airport,6301043
+Sholapur,17.62796,75.93484,India,Maharashtra,482,0,airport,6301044
+Agartala Airport,23.88698,91.24045,India,Tripura,14,0,airport,6301066
+Bagdogra Airport,26.68121,88.32857,India,West Bengal,125,0,airport,6301067
+Biju Patnaik International Airport,20.24436,85.81778,India,Odisha,42,0,airport,6301068
+Kolkata Airport,22.65474,88.44672,India,West Bengal,4,0,airport,6301069
+Gorakhpur Airport,26.73971,83.44971,India,Uttar Pradesh,78,0,airport,6301071
+Gaya Airport,24.74431,84.95118,India,Bihar,115,0,airport,6301072
+Imphal International Airport,24.75995,93.8967,India,Manipur,774,0,airport,6301073
+Jharsuguda Airport,21.91354,84.05038,India,Odisha,228,0,airport,6301074
+Jamshedpur,22.81321,86.16884,India,Jharkhand,153,0,airport,6301075
+Lilabari Airport,27.29549,94.09765,India,Assam,100,0,airport,6301076
+Dibrugarh Airport,27.48333,95.01667,India,Assam,110,0,airport,6301077
+Lok Nayak Jayaprakash Airport,25.59132,85.08799,India,Bihar,51,0,airport,6301079
+Birsa Munda Airport,23.31425,85.32167,India,Jharkhand,654,0,airport,6301080
+Agra Airport,27.15583,77.96089,India,Uttar Pradesh,167,0,airport,6301090
+Allahabad Airport,25.44006,81.73387,India,Uttar Pradesh,98,0,airport,6301091
+Varanasi Airport,25.45236,82.85934,India,Uttar Pradesh,81,0,airport,6301093
+Bareilly Airport,28.42206,79.45084,India,Uttar Pradesh,176,0,airport,6301094
+Kanpur Civil Airport,26.4043,80.41012,India,Uttar Pradesh,123,0,airport,6301095
+Gwalior Airport,26.29334,78.22775,India,Madhya Pradesh,188,0,airport,6301097
+Hisar Airport,29.17944,75.75534,India,Haryana,213,0,airport,6301098
+Jodhpur Airport,26.25109,73.04887,India,Rajasthan,218,0,airport,6301100
+Jaipur International Airport,26.82419,75.81216,India,Rajasthan,384,0,airport,6301101
+Kota Airport,25.16022,75.84563,India,Rajasthan,273,0,airport,6301102
+Satna Airport,24.56232,80.85493,India,Madhya Pradesh,323,0,airport,6301103
+Udaipur Airport,24.61784,73.89662,India,Rajasthan,509,0,airport,6301104
+Bellary Airport,15.16278,76.88277,India,Karnataka,9,0,airport,6301119
+Vijayawada Airport,16.53043,80.79685,India,Andhra Pradesh,24,0,airport,6301120
+Coimbatore International Airport,11.03003,77.04338,India,Tamil Nadu,403,0,airport,6301121
+Kadapa Airport,14.50996,78.77283,India,Andhra Pradesh,131,0,airport,6301123
+Hyderabad Old Airport,17.45312,78.46759,India,Telangana,530,0,airport,6301124
+Madurai Airport,9.83451,78.09338,India,Tamil Nadu,139,0,airport,6301125
+Bajpe Airport,12.96127,74.89007,India,Karnataka,102,0,airport,6301126
+Trichy International Airport,10.76536,78.70972,India,Tamil Nadu,87,0,airport,6301128
+Bhavnagar Airport,21.75221,72.18518,India,Gujarat,13,0,airport,6301869
+Chaudhary Charan Singh Airport,26.76059,80.88934,India,Uttar Pradesh,124,0,airport,6301873
+Diu Airport,20.7131,70.9211,India,Dadra and Nagar Haveli and Daman and Diu,,0,airport,7668568
+Civil Airport Harni,22.3362,73.2263,India,Gujarat,,0,airport,7668569
+Daman Airport,20.4344,72.8432,India,Dadra and Nagar Haveli and Daman and Diu,,0,airport,7668570
+Hubli Airport,15.3617,75.0849,India,Karnataka,,0,airport,7668571
+Govardhanpur Airport Jamnagar,22.4655,70.0126,India,Gujarat,,0,airport,7668572
+Kandla Airport,23.1127,70.1003,India,Gujarat,,0,airport,7668573
+Khajuraho Civil Airport,24.8172,79.9186,India,Madhya Pradesh,,0,airport,7668574
+Keshod Airport,21.3171,70.2704,India,Gujarat,,0,airport,7668575
+Nanded Airport,19.18173,77.32251,India,Maharashtra,,0,airport,7668576
+Porbandar Airport,21.6487,69.6572,India,Gujarat,,0,airport,7668578
+Ratnagiri Airport,17.0136,73.3278,India,Maharashtra,,0,airport,7668579
+Mana Airport,21.1804,81.7388,India,Madhya Pradesh,,0,airport,7668580
+Surat Airport,21.1141,72.7418,India,Gujarat,,0,airport,7668581
+Along Airport,28.17465,94.80199,India,Arunachal Pradesh,,0,airport,7668586
+Balurghat Airport,25.2617,88.7956,India,West Bengal,,0,airport,7668587
+Umroi Airport,25.7036,91.9787,India,Meghalaya,,0,airport,7668588
+Daporijo Airport,27.9855,94.2228,India,Arunachal Pradesh,,0,airport,7668589
+Jorhat Airport,26.7315,94.1755,India,Assam,,0,airport,7668590
+Silchar Airport,24.9129,92.9787,India,Assam,,0,airport,7668592
+Dimapur Airport,25.8839,93.7711,India,Nagaland,,0,airport,7668593
+Muzaffarpur Airport,26.1191,85.3137,India,Bihar,,0,airport,7668594
+Tezu Airport,27.9412,96.1344,India,Arunachal Pradesh,,0,airport,7668595
+Tezpur Airport,26.7091,92.7847,India,Assam,,0,airport,7668596
+Zero Airport,27.5883,93.8281,India,Arunachal Pradesh,,0,airport,7668598
+Kullu Manali Airport,31.8767,77.1544,India,Himachal Pradesh,,0,airport,7668601
+Chandigarh International Airport,30.6735,76.7885,India,Chandigarh,,0,airport,7668602
+Jolly Grant Airport,30.1897,78.1803,India,Uttar Pradesh,,0,airport,7668603
+Jammu Airport,32.6891,74.8374,India,Jammu and Kashmir,,0,airport,7668604
+Ludhiana Airport,30.8547,75.9526,India,Punjab,,0,airport,7668605
+Pathankot Air Force Station,32.2338,75.6346,India,Punjab,,0,airport,7668607
+Shimla Airport,31.0818,77.068,India,Himachal Pradesh,,0,airport,7668608
+Agatti Airport,10.8237,72.176,India,Lakshadweep,,0,airport,7668633
+Rajahmundry Airport,17.1104,81.8182,India,Andhra Pradesh,,0,airport,7668635
+Salem Airport,11.7833,78.0656,India,Tamil Nadu,,0,airport,7668636
+Tirupati Airport,13.6325,79.5433,India,Andhra Pradesh,,0,airport,7668637
+Warangal Airport,17.9144,79.6022,India,Telangana,,0,airport,7668638
+Khowai Airport,24.0619,91.6039,India,Tripura,,0,airport,7731127
+Kamalpur Airport,24.1317,91.8142,India,Tripura,,0,airport,7731128
+Pasighat Airport,28.0661,95.3356,India,Arunachal Pradesh,,0,airport,7731129
+Malda Airport,25.01,88.127,India,West Bengal,,0,airport,7731215
+Mysore Airport,12.3072,76.6497,India,Karnataka,,0,airport,7731318
+Neyveli Airport,11.61296,79.52738,India,Tamil Nadu,,0,airport,7731354
+Jeypore Airport,18.88,82.552,India,Odisha,,0,airport,7731420
+Rupsi Airport,26.14118,89.90687,India,Assam,,0,airport,7731476
+Thanjavur Air Force Station,10.7224,79.1016,India,Tamil Nadu,,0,airport,7731547
+Sri Sathya Sai Airport,14.14864,77.79097,India,Andhra Pradesh,,0,airport,7729986
+Rajiv Gandhi International Airport,17.23132,78.42986,India,Telangana,,0,airport,7729997
+Dhanbad Airport,23.834,86.4253,India,Jharkhand,,0,airport,7730214
+Rourkela Airport,22.2567,84.8146,India,Odisha,,0,airport,7730215
+Nal Airport,28.0706,73.2072,India,Rajasthan,,0,airport,7730216
+Jaisalmer Airport,26.8887,70.865,India,Rajasthan,,0,airport,7730217
+Pantnagar Airport,29.0334,79.4737,India,Uttar Pradesh,,0,airport,7730218
+Pondicherry Airport,11.9687,79.8101,India,Tamil Nadu,,0,airport,7730221
+Aizawl Lengpui Airport,23.83788,92.62024,India,Mizoram,,0,airport,7730812
+Bathinda Airport,30.2701,74.7558,India,Punjab,,0,airport,7730886
+Cooch Behar Airport,26.3305,89.4672,India,West Bengal,,0,airport,7730933
+Pune Airport,18.58223,73.91988,India,Maharashtra,592,0,airport,6452628
+Kangra Airport,32.1649,76.26293,India,Himachal Pradesh,770,0,airport,6453418
+Shirdi Airport,19.68876,74.37766,India,Maharashtra,,0,airport,8532031
+Gondia Airport,21.52483,80.28843,India,Maharashtra,,0,airport,8533127
+Port Blair,11.64101,92.72997,India,Andaman and Nicobar,,0,airport,7910160
+Tuticorin Airport,8.72308,78.02731,India,Tamil Nadu,39,0,airport,7910377
+Jalgaon Airport,20.96257,75.62792,India,Maharashtra,,0,airport,8477328
+Ozar Airport,20.11944,73.91368,India,Maharashtra,,0,airport,8477355
+Bidar Air Force Station,17.90309,77.48322,India,Karnataka,,0,airport,8441899
+Latur Airport,18.4117,76.4644,India,Maharashtra,,0,airport,8260967
+Ramagundam Basantnagar Airport,18.70081,79.39184,India,Telangana,,0,airport,8261050
+Jindal Vijaynagar Airport,15.17483,76.63406,India,Karnataka,,0,airport,8299089
+Durgapur Kazi Nazrul Islam Airport,23.62534,87.2414,India,West Bengal,,0,airport,10942839
+Kannur International Airport,11.91665,75.54663,India,Kerala,,0,airport,11669736
+Ajmer Kishangarh Airport,26.59114,74.81329,India,Rajasthan,,0,airport,11669749
+Gangtok Pakyong Airport,27.22756,88.58596,India,Sikkim,,0,airport,11928000
+Darbhanga Airport,26.19426,85.91587,India,Bihar,,0,airport,12217912
+Gulbarga Kalaburagi Airport,17.3076,76.95524,India,Karnataka,,0,airport,12110496
+Shivamogga Airport,13.85779,75.60715,India,Karnataka,,0,airport,12541309
+Rajkot International Airport,22.37433,71.03529,India,Gujarat,,0,airport,12541312
+Noida International Airport,28.16688,77.60306,India,Uttar Pradesh,,0,airport,12547695
+Kurnool Airport,15.71468,78.17821,India,Andhra Pradesh,,0,airport,12402356
+Sindhudurg Airport,15.99894,73.5347,India,Maharashtra,,0,airport,12402378
+Kushinagar International Airport,26.7712,83.89575,India,Uttar Pradesh,,0,airport,12382009
+Itanagar Airport,26.97117,93.64253,India,Arunachal Pradesh,,0,airport,12519121
+Utkela Airport,20.09456,83.18103,India,Odisha,,0,airport,12558101
+Khandwa Airport,21.83333,76.36667,India,Madhya Pradesh,317,0,airport,6301040
+Safdarjung Airport,28.58451,77.20578,India,Delhi,214,0,airport,6301096
+Jhansi,25.49117,78.55842,India,Uttar Pradesh,244,0,airport,6301099
+HAL Bangalore Airport,12.94999,77.66821,India,Karnataka,887,0,airport,6301118
+INS Garuda,9.94739,76.27308,India,Kerala,2,0,airport,6301122
+Vellore Airport,12.90824,79.06551,India,Tamil Nadu,,0,airport,6301130
+Jagdalpur Airport,19.0743,82.0368,India,Madhya Pradesh,,0,airport,7668585
+Rajouri Airport,33.3779,74.3152,India,Jammu and Kashmir,,0,airport,7731463
+Guna Airport,24.6547,77.3473,India,Madhya Pradesh,,0,airport,7730208
+Ayodhya Airport,26.75144,82.15482,India,Uttar Pradesh,,0,airport,8531967
+Chakulia Airport,22.46664,86.71081,India,Jharkhand,,0,airport,8531973
+Osmanabad Airport,18.27993,76.05633,India,Maharashtra,,0,airport,8531979
+Indira Gandhi National Aviation Academy(IGRUA,26.24816,81.37925,India,Uttar Pradesh,,0,airport,8531985
+Deesa Airport,24.26813,72.20389,India,Gujarat,,0,airport,8532046
+Meerut Airport,28.90484,77.67748,India,Uttar Pradesh,,0,airport,8533128
+Muirpur Airport,24.12498,83.03771,India,Uttar Pradesh,,0,airport,8533156
+Dhule Airport,20.92637,74.73832,India,Maharashtra,,0,airport,8477307
+Juhu Aerodrome,19.09647,72.83121,India,Maharashtra,,0,airport,8442467
+Rewa Chorhata Airport,24.5036,81.2207,India,Madhya Pradesh,,0,airport,8298861
+Harihar Airport,14.53503,75.78863,India,Karnataka,,0,airport,8555630
+Raichur Airport,16.28006,77.36017,India,Karnataka,,0,airport,8555656
+Chitrakoot Airport,25.16766,80.93551,India,Uttar Pradesh,,0,airport,8555683
+Burnpur Airport,23.63123,86.97584,India,West Bengal,,0,airport,8555769
+Raxaul Airport,26.99639,84.81982,India,Bihar,,0,airport,8555771
+Koppal Airport,15.35931,76.2192,India,Karnataka,,0,airport,8555776
+Purnea Airport,25.76225,87.40954,India,Bihar,,0,airport,8520887
+Behala Airport,22.50383,88.29354,India,West Bengal,,0,airport,8533707
+Patiala Airport,30.31369,76.85503,India,Haryana,,0,airport,8533713
+Donakonda Airport,15.83307,79.49913,India,Andhra Pradesh,,0,airport,8533774
+Chandrapur Airport,19.99438,79.22252,India,Maharashtra,,0,airport,8533850
+Deoghar Airport,24.44444,86.7062,India,Jharkhand,,0,airport,12440519
+Mopa International Airport,15.7313,73.86817,India,Goa,,0,airport,12420963
+Farrukhabad Airport,27.31596,79.45175,India,Uttar Pradesh,,0,airport,8533138
+Birlagram,23.44563,75.42039,India,Madhya Pradesh,,0,airport,8458409
+Utterlai,25.81183,71.48305,India,Rajasthan,,0,airport,8441021
+Safai Airport,26.92995,79.05642,India,Uttar Pradesh,,0,airport,8555685
+Satna Railway Station,24.56883,80.8283,India,Madhya Pradesh,,0,airport,8556381
+Paliya Airport,28.46737,80.57794,India,Uttar Pradesh,,0,airport,8533895
+Adampur Airport,31.43569,75.7564,India,Punjab,,0,airport,11776669
+Ratlam,23.38206,75.02484,India,Madhya Pradesh,,0,airport,8458490
+Darjeeling,27.0333,88.2667,India,West Bengal,,0,airport,8298983
+Durgapur Steel Plant Airport,23.58177,87.342,India,West Bengal,,0,airport,10942840
+Jhabua,22.78059,74.56099,India,Madhya Pradesh,,0,airport,8462148
+Rajahmundry,17.10093,81.8811,India,Andhra Pradesh,,0,airport,8439080
+Jeypore Airport,18.8602,82.54553,India,Odisha,,0,airport,8439966
+Jagdalpur,19.05182,82.02935,India,Andhra Pradesh,,0,airport,8440132
+Hindon Airport,28.70698,77.36208,India,Rajasthan,,0,airport,8440755
+Andhau Air Port,25.61861,83.56813,India,Uttar Pradesh,,0,airport,11703501
+Azamgarh Airport,26.16159,83.11181,India,Uttar Pradesh,,0,airport,12747951
+Aligarh Airport,27.8583,78.14901,India,Uttar Pradesh,,0,airport,12747953
+Moradabad Airport,28.81761,78.92203,India,Uttar Pradesh,,0,airport,12747955
+Shravasti Airport,27.50198,82.02675,India,Uttar Pradesh,,0,airport,12747956
+Navi Bombay International Airport,18.98824,73.08002,India,Maharashtra,,0,airport,12808986
+Datia Airport,25.64979,78.50348,India,Madhya Pradesh,,0,airport,13118779
+Maa Mahamaya Airport,22.99039,83.195,India,Chhattisgarh,,0,airport,13157414
+Halwara International Airport,30.74775,75.63051,India,Punjab,,0,airport,13192617
+Sarsawa Airport,29.99139,77.40797,India,Uttar Pradesh,,0,airport,13562568
+Amravati Airport,20.81436,77.72134,India,Maharashtra,,0,airport,13645252
